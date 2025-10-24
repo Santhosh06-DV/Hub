@@ -4,10 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>My First Project</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload Sailes having 2 or 4 boyfriends.
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
